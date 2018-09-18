@@ -1,18 +1,4 @@
-/**
- * INSTRUCTIONS.
- * 
- * Problem Set 1 will test your skills of printing to the console. You'll
- * be asked to print various text, shapes, and figures, all of which is
- * explained (and demonstrated) in detail in the README file.
- */
-
-public class ProblemSet1 {	
-	
-	/**
-	 * Every Java program must have a main method, which is
-	 * where program execution begins.
-	 */
-	
+public class ProblemSet1 {
 	public static void main(String[] args) {
 		System.out.println("/// EXERCISE 1 /////////////////////////////////////////////////\n");
 		
